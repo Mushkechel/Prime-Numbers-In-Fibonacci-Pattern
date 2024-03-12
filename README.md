@@ -1,1 +1,1 @@
-# PrimeNumbersInFibonacciRow
+# PrimeNumbersInFibonacciPattern
